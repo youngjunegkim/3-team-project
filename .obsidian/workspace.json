@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2025-09-16.md",
+                "file": "Git에 대해.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-09-16"
+              "title": "Git에 대해"
             }
           }
         ]
@@ -169,8 +169,12 @@
       "bases:Create new base": false
     }
   },
-  "active": "a171a836f22a881d",
+  "active": "d6a3f762de60f48d",
   "lastOpenFiles": [
+    "Untitled 1",
+    "Untitled",
+    "Untitled.base",
+    "Untitled 1.base",
     "소프트웨어학부 김영준(2023803065).md",
     "Git에 대해.md",
     "2025-09-16.md",
